@@ -1,0 +1,8 @@
+{
+    "header":{
+        "message": "Welcome to site"
+    },
+    "home":{
+        "body": "This is written in english"
+    }
+}
