@@ -17,11 +17,11 @@
    ```bash
    cd multi-language-react-site
 
-3.Install dependencies:
+3. Install dependencies:
   ```bash
   npm install
 
-## Running the application
+4. Running the application
    ```bash
    npm start
 
