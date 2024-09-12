@@ -21,8 +21,8 @@
   ```bash
   npm install
 
-4. Running the application
+### Running the application:
    ```bash
    npm start
 
-* The application will start on http://localhost:3000/.
+**The application will start on http://localhost:3000/.
