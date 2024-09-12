@@ -18,8 +18,8 @@
    cd multi-language-react-site
 
 3. Install dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 4. Running the application:
    ```bash
