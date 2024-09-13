@@ -1,6 +1,9 @@
 {
     "header":{
-        "message": "Bienvenidos al sitio"
+        "message": "Bienvenidos al sitio",
+        "nav1": "HomeInicio",
+        "nav2": "Acerca de nosotros",
+        "nav3": "Contacto"
     },
     "home":{
         "body": "Esto está escrito en español."

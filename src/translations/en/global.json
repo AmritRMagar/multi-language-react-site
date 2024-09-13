@@ -1,6 +1,9 @@
 {
     "header":{
-        "message": "Welcome to site"
+        "message": "Welcome to site",
+        "nav1": "Home",
+        "nav2": "About Us",
+        "nav3": "Contact"
     },
     "home":{
         "body": "This is written in english"
